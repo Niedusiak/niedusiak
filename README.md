@@ -83,7 +83,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-![Niedusiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niedusiak&show_icons=true&theme=TokyoNight)
