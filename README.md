@@ -4,8 +4,6 @@
 
 " Me chamo Mateus Niedusiak e sou um apaixonado por tecnologia e criatividade. Atualmente, curso Engenharia da Computação na UFMT e trago na bagagem uma forte experiência com design gráfico. Meu foco hoje é evoluir como desenvolvedor de software, mas o meu grande sonho de carreira é criar um jogo de sucesso! 🎮 "
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-niedusiak)
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
