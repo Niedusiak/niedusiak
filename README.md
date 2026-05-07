@@ -2,7 +2,7 @@
 
 **`Futuro Engenheiro de Software / Futuro Game Dev`**
 
-" Oi! Me chamo Mateus Niedusiak. Sou estudante de Engenharia da Computação e apaixonado por videogames. Meu objetivo diário é aprender cada vez mais para me tornar um grande desenvolvedor de software, e o meu maior sonho é um dia lançar um jogo de sucesso. 🎮 "
+Oi! Me chamo Mateus Niedusiak. Sou estudante de Engenharia da Computação e apaixonado por videogames. Meu objetivo diário é aprender cada vez mais para me tornar um grande desenvolvedor de software, e o meu maior sonho é um dia lançar um jogo de sucesso. 🎮
 
 ### 🤖 Linguagens e Tecnologias
 
